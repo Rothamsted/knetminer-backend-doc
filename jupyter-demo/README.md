@@ -1,2 +1,4 @@
-# jupyter-test
-A test with Jupyter and Binder
+# Knetminer Data backend, A Jupyter demo.
+
+A test with Jupyter, Binder and Knetminer data endpoints.
+
