@@ -1,6 +1,0 @@
-pandas
-matplotlib
-sparqlwrapper
-rdflib
-neo4j
-networkx
