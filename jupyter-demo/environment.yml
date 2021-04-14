@@ -1,0 +1,9 @@
+name: knetminer-backend-demo
+dependencies:
+  - python=3.8
+  - pandas
+  - matplotlib
+  - sparqlwrapper
+  - rdflib
+  - neo4j
+  - networkx
