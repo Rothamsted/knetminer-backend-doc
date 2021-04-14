@@ -1,0 +1,7 @@
+# Used by Binder in jupyter notebooks like jupyter-demo/*.ipynb
+pandas
+matplotlib
+sparqlwrapper
+rdflib
+neo4j
+networkx
